@@ -1,13 +1,12 @@
 {
-    "name": "lucasdotvin/laravel-soulbscription",
-    "description": "A straightforward interface to handle subscriptions and features consumption.",
+    "name": "ept-kl/laravel-soulbscription",
+    "description": "A fork repo from lucasdotvin/laravel-soulbscription",
     "keywords": [
-        "lucasdotvin",
         "laravel",
         "laravel-soulbscription",
         "subscriptions"
     ],
-    "homepage": "https://github.com/lucasdotvin/laravel-soulbscription",
+    "homepage": "https://github.com/ept-kl/laravel-soulbscription",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1|^8.2",
+        "php": "^8.0|^8.1|^8.2|^8.3|^8.4",
         "illuminate/contracts": "^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "require-dev": {
